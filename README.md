@@ -7,9 +7,9 @@
 
 ### ⚠️ Resolving Database Connection Errors
 If you encounter a database connection error:
-1. Right-click on the **Libraries** folder in the project.
+1. Right-click on the **Libraries**  in the project.
 2. Select **Add JAR/Folder**.
-3. Choose the file: `sqlite-jdbc-3.46.1.3.jar`.
+3. Choose the file: `sqlite-jdbc-3.46.1.3.jar`on the "lib" folder.
 
 ---
 
