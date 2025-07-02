@@ -13,7 +13,7 @@ If you encounter a database connection error:
 
 ---
 
-## 🚀 Running the Program Without Using NetBeans
+## 🚀 Running the Program Without Running the Code
 
 1. Open the `dist` folder.
 2. Double-click the `resumebuilder.jar` file to launch the application.
