@@ -22,6 +22,6 @@ If you encounter a database connection error:
 
 ## 📝 Notes
 
-- Please refer to the included `DOCUMENTATION.pdf` to understand how the program works.
+- Please refer to the included `DOCUMENTATION (CVuild).pdf` to understand how the program works.
 - While the documentation mentions **MariaDB** as the database, this version uses **SQLite** to allow users to run the program without database setup, simplifying the overall process.
 
